@@ -1,3 +1,5 @@
+see: http://spring-guides.marcuschiu.com/spring-data/couchbase/spring-boot-couchbase.html
+
 # Install Couchbase
 ```shell
 brew install couchbase-server-community

@@ -16,14 +16,9 @@ public class Airline {
 
     @Id
     private String id;
-
     private String name;
-
     private String iata;
-
     private String icao;
-
     private String callsign;
-
     private String country;
 }
